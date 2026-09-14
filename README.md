@@ -56,9 +56,13 @@ Top gaining coins in the last 24 hours, pulled live and queried via SQL:
 
 | name | current_price | price_change_percentage_24h |
 |---|---|---|
-| ... | ... | ... |
+|      name | current_price | price_change_percentage_24h|
+|     XRP    |       1.42    |                     4.99|
+|   Zcash    |    1144.23    |                     2.89|
+| Solana     |    102.98     |                    1.97|
+|Bitcoin     |  78815.00     |                    1.94|
+|Ethereum    |    2531.93    |                     0.95|
 
-*(Paste a real sample of your output here once you have it — it makes the README feel alive rather than templated.)*
 
 ## Data Source
 
